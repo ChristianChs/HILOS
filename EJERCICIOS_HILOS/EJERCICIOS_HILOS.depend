@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1686166418 source:c:\users\pc04a\documents\codeblocks\ejercicios_hilos\main.cpp
+	<iostream>
+	<thread>
+
